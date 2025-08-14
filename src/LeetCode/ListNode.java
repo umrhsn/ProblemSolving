@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 /**
  Common class for solving singly-linked list problems.

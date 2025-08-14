@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 14. Longest Common Prefix
 

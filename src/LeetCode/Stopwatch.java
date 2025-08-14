@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 public class Stopwatch {
     private static final long NANOS_IN_MILLI = 1_000_000L;

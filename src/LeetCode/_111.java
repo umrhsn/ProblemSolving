@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 111. Minimum Depth of Binary Tree
 

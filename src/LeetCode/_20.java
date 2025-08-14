@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 20. Valid Parentheses
 

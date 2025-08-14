@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 9. Palindrome Number
 

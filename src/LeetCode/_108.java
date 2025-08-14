@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 108. Convert Sorted Array to Binary Search Tree
 

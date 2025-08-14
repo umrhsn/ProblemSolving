@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 110. Balanced Binary Tree
 

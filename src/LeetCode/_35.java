@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 35. Search Insert Position
 

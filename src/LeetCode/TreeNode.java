@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 /**
  * Definition for a binary tree node.

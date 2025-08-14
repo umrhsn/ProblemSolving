@@ -1,4 +1,4 @@
-package LeetCode.Easy;
+package LeetCode;
 
 // 118. Pascal's Triangle
 

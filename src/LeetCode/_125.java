@@ -1,5 +1,5 @@
 
-package LeetCode.Easy;
+package LeetCode;
 
 // 125. Valid Palindrome
 

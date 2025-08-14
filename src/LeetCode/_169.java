@@ -1,5 +1,5 @@
 
-package LeetCode.Easy;
+package LeetCode;
 
 // 169. Majority Element
 
